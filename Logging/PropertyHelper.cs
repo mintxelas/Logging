@@ -1,4 +1,6 @@
-﻿using System;
+﻿// from: https://github.com/dotnet/extensions/blob/a6fb6447365f4c50b84b7e7c1b11f4b1c1758ecf/shared/Microsoft.Extensions.PropertyHelper.Sources/PropertyHelper.cs
+
+using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;

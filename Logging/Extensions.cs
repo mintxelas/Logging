@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿// based on: https://andrewlock.net/using-anonymous-types-and-tuples-to-attach-correlation-ids-to-scope-state-with-serilog-and-seq-in-asp-net-core/
+
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 
